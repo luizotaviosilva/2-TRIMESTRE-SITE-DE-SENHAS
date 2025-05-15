@@ -22,7 +22,7 @@ function diminuiTamanho() {
     geraSenha();
 }
 function aumentaTamanho() {
-    if (tamanhoSenha < 30) {
+    if (tamanhoSenha < 15) {
         // tamanhoSenha = tamanhoSenha+1;
         tamanhoSenha++;
     }
